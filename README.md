@@ -12,10 +12,11 @@ Use the project - transmit a signal while an exploding bomb. Know to ignore the 
 
 ![](Figure_1.png)
 
-![](Figure_1.png)
+![](Figure_2.png)
 
 ![](Figure_1.png)
 
+It can be implemented in a simple way:
 
 ![](Peak_D1.png)
 
