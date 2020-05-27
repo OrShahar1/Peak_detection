@@ -10,7 +10,15 @@ Use the project - transmit a signal while an exploding bomb. Know to ignore the 
 
 
 
-![](pic.png)
+![](Figure_1.png)
+
+![](Figure_1.png)
+
+![](Figure_1.png)
+
+
+![](Peak_D1.png)
+
 
 
 
